@@ -1,6 +1,6 @@
 {
   "name": "ddpg-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deep Deterministic Policy Gradient (DDPG) Agent built using Tensorflow.js",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
